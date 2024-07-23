@@ -9,7 +9,7 @@
 Use the below code for .yml and setup the secret & variable keys at the settings of Github repo
 
 ```yml
-name: Webhook Deploy to Tenant Dev
+name: Deploy to Server
 on:
   push: 
     branches: 
